@@ -26,4 +26,3 @@ module FancyDance
   end
 end
  
-First, we define our FancyDance mod
